@@ -10,7 +10,9 @@ View the hourly forecast: Swipe the hourly display left or right.
 
 View the 10-day forecast: View weather conditions, chance of precipitation, and high and low temperatures for the coming days.
 
-Note: The air quality scale appears above the hourly forecast when air quality reaches a particular level for that location. For some locations, the air quality scale always appears above the hourly forecast.
+Note: 
+
+The air quality scale appears above the hourly forecast when air quality reaches a particular level for that location. For some locations, the air quality scale always appears above the hourly forecast.
 
 View weather maps in your area: View a map of temperature, precipitation, or air quality in the area. Tap the map to view it in full screen or to change the map view between temperature, precipitation, and air quality.
 
@@ -20,4 +22,5 @@ Check the weather in other locations: Swipe left or right on the screen, or tap 
 
 
 #Introduction
+
 Our task was to implement our HTML, CSS, Advanced JavaScript knowledge which we had learned at Masai. We used this skillset to build a static copy of Weather applicaton along with the responsiveness of the page for different screen sizes and some user interactivity with Advanced JS.
